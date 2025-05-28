@@ -3,3 +3,8 @@ div{
   margin: 10px;  
   padding: 5px;
 }
+ul{
+  text-decoration: underline;
+  color: rgb(254, 21, 44);
+  text-transform: uppercase;
+}
